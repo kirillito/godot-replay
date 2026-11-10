@@ -1,0 +1,13 @@
+# Godot
+.godot/
+*.translation
+export_presets.cfg
+
+# Installed by tools/install_gdunit4.py, not vendored
+addons/gdUnit4/
+reports/
+
+# Local bug bundles
+bug_reports/
+
+__pycache__/

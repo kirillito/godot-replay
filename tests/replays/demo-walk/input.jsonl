@@ -1,0 +1,9 @@
+{"t":1095,"a":{"move_left":1,"move_up":0.30000001192092896}}
+{"t":1150,"a":{"move_up":0}}
+{"t":1260,"a":{"move_left":0,"move_down":1}}
+{"t":1300,"a":{"move_right":1,"move_down":0}}
+{"t":1420,"a":{"move_left":0.6000000238418579,"move_right":0,"move_up":1}}
+{"t":1500,"a":{"move_left":0,"move_up":0},"tap":["interact"]}
+{"t":1560,"a":{"move_right":1}}
+{"t":1700,"a":{"move_right":0,"move_down":1}}
+{"t":1760,"a":{"move_down":0}}

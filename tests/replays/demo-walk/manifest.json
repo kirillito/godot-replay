@@ -1,0 +1,36 @@
+{
+  "format": "godot-replay",
+  "format_version": 1,
+  "game": {
+    "id": "godot-replay example",
+    "version": "0.1.0 (255747f)"
+  },
+  "engine": "4.7.2-stable (official)",
+  "platform": {
+    "os": "Windows",
+    "cpu": "Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz",
+    "renderer": "forward_plus"
+  },
+  "created": "2026-11-10 17:34:42",
+  "scene": "res://example/main.tscn",
+  "adapter": "godot-replay-demo",
+  "physics_fps": 60,
+  "start_tick": 1095,
+  "end_tick": 1800,
+  "checkpoint_interval": 30,
+  "seeds": {
+    "world": {
+      "seed": "-6756901404454943835",
+      "state": "-7613662558952092841"
+    }
+  },
+  "actions": [
+    "move_left",
+    "move_right",
+    "move_up",
+    "move_down",
+    "interact"
+  ],
+  "end_hash": "4fe8e64d63738b81",
+  "note": "Scripted demo walk: lamp toggled, bumped by the wanderer once"
+}
